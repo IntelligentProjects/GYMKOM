@@ -1,0 +1,7 @@
+{
+  "name": "Gymkom",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
